@@ -12,6 +12,11 @@
  <img src="https://img.shields.io/badge/unrealengine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=black"/>
 </p>
 
+## Tempered Glass_NoiseCancelling
+<br>
+<p align="left">As our quality of life stabilizes, we find ourselves less inclined to respond sensitively to the shockwaves of technological innovation—unlike in the era of the Industrial Revolution. And yet, these waves continue to arrive, faster and more forcefully. We remain optimistic about technologies that promise convenience, but such optimism often slips into passive disregard. Leaks of personal information, accidents involving autonomous vehicles, and widespread surveillance are no longer rare anomalies—they are recurring consequences. Yet we dismiss them as easily and habitually as we breathe.
+
+When we don’t want to hear what’s happening outside, we turn on “noise cancelling”—choosing to listen only to what we want. This work draws a parallel between that act of selective hearing and society’s indifference toward the shadowy sides of technology. The metaphor of tempered glass—strong but fragile—and a world veiled by noise cancelling speaks to our collective tendency to ignore. Through this, the work poses a critical question: Is what we choose to ignore really just “noise”?</p>
 
 ***
 ## 하드웨어 개발
