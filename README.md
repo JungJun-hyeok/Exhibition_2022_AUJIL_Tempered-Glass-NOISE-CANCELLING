@@ -1,10 +1,9 @@
 # AUJIL_Tempered Glass_NoiseCancelling
-<br>
 <p align="center"><img id="img01" src="https://user-images.githubusercontent.com/83487028/187818910-06db9ec6-8bce-4bfb-887f-6429602ce8b9.jpeg" width="700px" height="370px" title="50px" alt="ReferenceImage"></img></p>
 <br>
 
 <!-- <div style="text-align=center">Genre : Interactive Installtion</div> -->
-<p align="left">Tempered Glass–NoiseCancelling is an immersive interactive installation that explores the paradox of a society that turns a blind eye to the hidden dangers of technology, despite being aware of them, implemented as a real-time rendered interaction using virtual environments, projection mapping, and physical computing.</p>
+<p align="left">**Tempered Glass–NoiseCancelling** is an immersive interactive installation that explores the paradox of a society that turns a blind eye to the hidden dangers of technology, despite being aware of them, implemented as a real-time rendered interaction using virtual environments, projection mapping, and physical computing.</p>
 
 <p align="center">
  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=black"/>
@@ -12,8 +11,9 @@
  <img src="https://img.shields.io/badge/unrealengine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=black"/>
 </p>
 
+## <br />
+
 ## Tempered Glass_NoiseCancelling
-<br>
 <p align="left">As our quality of life stabilizes, we find ourselves less inclined to respond sensitively to the shockwaves of technological innovation—unlike in the era of the Industrial Revolution. And yet, these waves continue to arrive, faster and more forcefully. We remain optimistic about technologies that promise convenience, but such optimism often slips into passive disregard. Leaks of personal information, accidents involving autonomous vehicles, and widespread surveillance are no longer rare anomalies—they are recurring consequences. Yet we dismiss them as easily and habitually as we breathe.
 
 When we don’t want to hear what’s happening outside, we turn on “noise cancelling”—choosing to listen only to what we want. This work draws a parallel between that act of selective hearing and society’s indifference toward the shadowy sides of technology. The metaphor of tempered glass—strong but fragile—and a world veiled by noise cancelling speaks to our collective tendency to ignore. Through this, the work poses a critical question: Is what we choose to ignore really just “noise”?</p>
