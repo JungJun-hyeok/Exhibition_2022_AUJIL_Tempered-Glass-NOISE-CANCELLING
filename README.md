@@ -12,20 +12,19 @@
 
 ## <br />
 
-## Tempered Glass_NoiseCancelling
+### Tempered Glass_NoiseCancelling
 <p align="left">As our quality of life stabilizes, we find ourselves less inclined to respond sensitively to the shockwaves of technological innovation—unlike in the era of the Industrial Revolution. And yet, these waves continue to arrive, faster and more forcefully. We remain optimistic about technologies that promise convenience, but such optimism often slips into passive disregard. Leaks of personal information, accidents involving autonomous vehicles, and widespread surveillance are no longer rare anomalies—they are recurring consequences. Yet we dismiss them as easily and habitually as we breathe.
 
 When we don’t want to hear what’s happening outside, we turn on “noise cancelling”—choosing to listen only to what we want. This work draws a parallel between that act of selective hearing and society’s indifference toward the shadowy sides of technology. The metaphor of tempered glass—strong but fragile—and a world veiled by noise cancelling speaks to our collective tendency to ignore. Through this, the work poses a critical question: Is what we choose to ignore really just “noise”?</p>
 
-***
-## 하드웨어 개발
+### 하드웨어 개발
  + 헤드폰
    + 노이즈 캔슬링을 체험 할 수 있는 헤드폰으로, 인터렉션 요소가 된다.
  + 송/수신 개발보드
    + 인터렉션을 위해 센서 값을 보정하는 계산 과정과 이를 토대로 안정화 된 센서 값을 RF통신으로 송, 수신하는 역할을 한다.
 
 
-## 창작 과정 및 방법
+### 창작 과정 및 방법
 + 하드웨어 시스템 설계
 
   + 인터렉션
