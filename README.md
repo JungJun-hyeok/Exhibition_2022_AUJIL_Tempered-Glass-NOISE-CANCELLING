@@ -5,10 +5,9 @@
 **Tempered Glass–NoiseCancelling** is an immersive interactive installation that explores the paradox of a society that turns a blind eye to the hidden dangers of technology, despite being aware of them, implemented as a real-time rendered interaction using virtual environments, projection mapping, and physical computing.
 
 <!-- <p align="center">-->
- ![arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=black)
- <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=black"/>
- <img src="https://img.shields.io/badge/Touchdesigner-000000?style=flat-square&logo=Touchdesigner&logoColor=black"/>
- <img src="https://img.shields.io/badge/unrealengine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=black"/>
+ ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=black)
+ ![Touchdesigner](https://img.shields.io/badge/Touchdesigner-000000?style=flat-square&logo=Touchdesigner&logoColor=black)
+ ![UnrealEngine5](https://img.shields.io/badge/unrealengine-0E1128?style=flat-square&logo=unrealengine&logoColor=black)
 <!--</p>-->
 
 ## <br />
