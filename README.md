@@ -7,7 +7,7 @@
 <br>
 
 <!-- <div style="text-align=center">Genre : Interactive Installtion</div> -->
-<p align="center">기술의 이면과 그 위험성을 알면서도 그저 외면하고 살아가는 현상을 표현한 인터렉티브 인스톨레이션 작품</p>
+<p align="center">Tempered Glass–NoiseCancelling is an immersive interactive installation that explores the paradox of a society that turns a blind eye to the hidden dangers of technology, despite being aware of them, implemented as a real-time rendered interaction using virtual environments, projection mapping, and physical computing.</p>
 
 <p align="center">
  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=black"/>
