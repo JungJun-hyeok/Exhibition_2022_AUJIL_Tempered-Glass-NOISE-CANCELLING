@@ -24,9 +24,12 @@ The content changes depending on how many people are wearing the headphones. As 
 This structure represents the unseen side of technology. When all the participants wear the headphones for a certain amount of time, the falling stops. The structure, once glowing red, turns green. Through this transformation, the work suggests a message:
 If we stop ignoring and start listening to the dangers behind the technology we use every day, maybe we can build a better future.
 
+## <br />
 
+### by TEAM.AUJIL
+Wanting to live mindfully—but constantly overwhelmed by the chaos of daily life—we came together to form Team AUJIL.
 
-
+All of our members are students at Seoul Institute of the Arts, with backgrounds in Digital Art and Theatre. With a mix of different personalities and creative interests—from media art, installation, and music composition to film, VFX, and game development—we brought our first project, Tempered Glass, to life.
 
 
 ### 하드웨어 개발
