@@ -13,9 +13,23 @@
 ## <br />
 
 ### Tempered Glass_NoiseCancelling
-<p align="left">As our quality of life stabilizes, we find ourselves less inclined to respond sensitively to the shockwaves of technological innovation—unlike in the era of the Industrial Revolution. And yet, these waves continue to arrive, faster and more forcefully. We remain optimistic about technologies that promise convenience, but such optimism often slips into passive disregard. Leaks of personal information, accidents involving autonomous vehicles, and widespread surveillance are no longer rare anomalies—they are recurring consequences. Yet we dismiss them as easily and habitually as we breathe.
+As our quality of life stabilizes, we find ourselves less inclined to respond sensitively to the shockwaves of technological innovation—unlike in the era of the Industrial Revolution. And yet, these waves continue to arrive, faster and more forcefully. We remain optimistic about technologies that promise convenience, but such optimism often slips into passive disregard. Leaks of personal information, accidents involving autonomous vehicles, and widespread surveillance are no longer rare anomalies—they are recurring consequences. Yet we dismiss them as easily and habitually as we breathe.
 
 When we don’t want to hear what’s happening outside, we turn on “noise cancelling”—choosing to listen only to what we want. This work draws a parallel between that act of selective hearing and society’s indifference toward the shadowy sides of technology. The metaphor of tempered glass—strong but fragile—and a world veiled by noise cancelling speaks to our collective tendency to ignore. Through this, the work poses a critical question: Is what we choose to ignore really just “noise”?</p>
+
+### Contents
+The installation consists of a massive 5-meter by 3-meter screen suspended from the ceiling, surrounded by speakers on all sides, and equipped with four headphones placed at the front.
+On the screen, objects fall continuously—each one representing the hidden dangers of technology in today’s society. But these objects never reach the viewer. A sheet of tempered glass above acts as a barrier.
+
+The content changes depending on how many people are wearing the headphones. As more people put them on, the cloudy sky clears up, and fewer objects fall. At the same time, a large structure made of floating technological parts slowly appears.
+
+This structure represents the unseen side of technology. When all the participants wear the headphones for a certain amount of time, the falling stops. The structure, once glowing red, turns green. Through this transformation, the work suggests a message:
+If we stop ignoring and start listening to the dangers behind the technology we use every day, maybe we can build a better future.
+
+
+
+
+
 
 ### 하드웨어 개발
  + 헤드폰
