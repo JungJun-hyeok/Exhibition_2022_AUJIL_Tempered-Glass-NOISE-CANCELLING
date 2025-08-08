@@ -1,5 +1,5 @@
 # AUJIL_Tempered Glass_NoiseCancelling
-<p align="center"><img id="img01" src="https://user-images.githubusercontent.com/83487028/187818910-06db9ec6-8bce-4bfb-887f-6429602ce8b9.jpeg" width="700px" height="370px" title="50px" alt="ReferenceImage"></img></p>
+<!-- <p align="center"><img id="img01" src="https://user-images.githubusercontent.com/83487028/187818910-06db9ec6-8bce-4bfb-887f-6429602ce8b9.jpeg" width="700px" height="370px" title="50px" alt="ReferenceImage"></img></p> -->
 
 <p align="center"><img id="img01" src="https://github.com/user-attachments/assets/eaf707c8-e009-4221-9145-d220d75bbd06" width="700px" height="370px" title="50px" alt="ReferenceImage"></img></p>
 
@@ -13,11 +13,17 @@
 ## <br />
 
 ### Tempered Glass_NoiseCancelling
+
+<p align="center"><img id="img01" src="https://github.com/user-attachments/assets/0488ea18-5139-47cd-b254-92e20db7cbf0" width="700px" height="370px" title="50px" alt="ReferenceImage"></img></p>
+
 As our quality of life stabilizes, we find ourselves less inclined to respond sensitively to the shockwaves of technological innovation—unlike in the era of the Industrial Revolution. And yet, these waves continue to arrive, faster and more forcefully. We remain optimistic about technologies that promise convenience, but such optimism often slips into passive disregard. Leaks of personal information, accidents involving autonomous vehicles, and widespread surveillance are no longer rare anomalies—they are recurring consequences. Yet we dismiss them as easily and habitually as we breathe.
 
 When we don’t want to hear what’s happening outside, we turn on “noise cancelling”—choosing to listen only to what we want. This work draws a parallel between that act of selective hearing and society’s indifference toward the shadowy sides of technology. The metaphor of tempered glass—strong but fragile—and a world veiled by noise cancelling speaks to our collective tendency to ignore. Through this, the work poses a critical question: Is what we choose to ignore really just “noise”?</p>
 
 ### Contents
+
+<p align="center"><img id="img01" src="https://github.com/user-attachments/assets/02a6375b-38f2-4ae1-a9a8-d41c1e2e37b3" width="700px" height="370px" title="50px" alt="ReferenceImage"></img></p>
+
 The installation consists of a massive 5-meter by 3-meter screen suspended from the ceiling, surrounded by speakers on all sides, and equipped with four headphones placed at the front.
 On the screen, objects fall continuously—each one representing the hidden dangers of technology in today’s society. But these objects never reach the viewer. A sheet of tempered glass above acts as a barrier.
 
