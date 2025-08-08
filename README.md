@@ -1,7 +1,7 @@
 # AUJIL_Tempered Glass_NoiseCancelling
 <p align="center"><img id="img01" src="https://user-images.githubusercontent.com/83487028/187818910-06db9ec6-8bce-4bfb-887f-6429602ce8b9.jpeg" width="700px" height="370px" title="50px" alt="ReferenceImage"></img></p>
 
-<p align="center"><img id="img01" src="[https://github.com/user-attachments/assets/27d55160-f993-4e87-add7-a3dff5ffcb91.jpeg]" width="700px" height="370px" title="50px" alt="ReferenceImage"></img></p>
+<p align="center"><img id="img01" src="https://github.com/user-attachments/assets/27d55160-f993-4e87-add7-a3dff5ffcb91.jpeg" width="700px" height="370px" title="50px" alt="ReferenceImage"></img></p>
 
 **Tempered Glass–NoiseCancelling** is an immersive interactive installation that explores the paradox of a society that turns a blind eye to the hidden dangers of technology, despite being aware of them, implemented as a real-time rendered interaction using virtual environments, projection mapping, and physical computing.
 
